@@ -66,12 +66,10 @@
 				CFC4B36B2A20CAA500CCD3CB /* SceneDelegate.swift */,
 				CFC4B37D2A20CB7500CCD3CB /* Controller */,
 				CFC4B37E2A20CB7F00CCD3CB /* View */,
+				CFC4B3A52A212CDA00CCD3CB /* Model */,
 				CFC4B3722A20CAA600CCD3CB /* Assets.xcassets */,
 				CFC4B3742A20CAA600CCD3CB /* LaunchScreen.storyboard */,
 				CFC4B3772A20CAA600CCD3CB /* Info.plist */,
-				CFC4B37F2A20CBD600CCD3CB /* Weather.swift */,
-				CFC4B3812A20CBEA00CCD3CB /* WeatherManager.swift */,
-				CFC4B3832A20CC3200CCD3CB /* WeatherModel.swift */,
 			);
 			path = Weather;
 			sourceTree = "<group>";
@@ -90,6 +88,16 @@
 				CFC4B36F2A20CAA500CCD3CB /* Main.storyboard */,
 			);
 			path = View;
+			sourceTree = "<group>";
+		};
+		CFC4B3A52A212CDA00CCD3CB /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				CFC4B37F2A20CBD600CCD3CB /* Weather.swift */,
+				CFC4B3812A20CBEA00CCD3CB /* WeatherManager.swift */,
+				CFC4B3832A20CC3200CCD3CB /* WeatherModel.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
