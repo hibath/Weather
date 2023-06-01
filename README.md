@@ -20,3 +20,5 @@ To run the Weather App locally, follow these steps:
 - Build and run the application on a simulator or device.
 - Enter a city name in the provided text box, or let it detect your location.
 - View the weather and temperature information for the specified city.
+
+![Alt text](https://github.com/hibath/Weather/blob/main/Weather.png?raw=true "Optional Title")
